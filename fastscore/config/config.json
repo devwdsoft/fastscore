@@ -1,0 +1,357 @@
+{
+    "phases": {
+        "2": {
+            "col": "0x260755",
+            "des": "Play-off"
+        },
+        "3": {
+            "col": "0x6002EE",
+            "des": "Qualification play-off"
+        },
+        "5": {
+            "col": "0x0075FF",
+            "des": "Championship play-off"
+        },
+        "10": {
+            "col": "0x23DF8C",
+            "des": "Promotion"
+        },
+        "11": {
+            "col": "0x6002EE",
+            "des": "Promotion play-off"
+        },
+        "14": {
+            "col": "0x961A3D",
+            "des": "Eliminated"
+        },
+        "15": {
+            "col": "0x961A3D",
+            "des": "Relegation"
+        },
+        "16": {
+            "col": "0xAAAAAA",
+            "des": "Relegation play-off"
+        },
+        "20": {
+            "col": "0x0075FF",
+            "des": "Champions League"
+        },
+        "21": {
+            "col": "0x6002EE",
+            "des": "Champions League qualification"
+        },
+        "25": {
+            "col": "0xB33C00",
+            "des": "Europa League"
+        },
+        "26": {
+            "col": "0x4304A0",
+            "des": "Europa League qualification"
+        },
+        "27": {
+            "col": "0x260755",
+            "des": "Europa League qualification play-off"
+        },
+        "28": {
+            "col": "0x4304A0",
+            "des": "Qualification to Europa League Final Stage"
+        },
+        "29": {
+            "col": "0x4304A0",
+            "des": "Qualification to Europa Conference League Final Stage"
+        },
+        "30": {
+            "col": "0x23DF8C",
+            "des": "Next stage"
+        },
+        "31": {
+            "col": "0x0070F0",
+            "des": "Possible qualification for the next stage"
+        },
+        "32": {
+            "col": "0x125034",
+            "des": "Olympic Games"
+        },
+        "33": {
+            "col": "0x072D5B",
+            "des": "World Cup"
+        },
+        "34": {
+            "col": "0x125034",
+            "des": "EURO"
+        },
+        "35": {
+            "col": "0x125034",
+            "des": "Africa Cup of Nations"
+        },
+        "37": {
+            "col": "0x0075FF",
+            "des": "CAF Champions League qualification"
+        },
+        "38": {
+            "col": "0x23DF8C",
+            "des": "CAF Confederation Cup"
+        },
+        "39": {
+            "col": "0x23DF8C",
+            "des": "CAF Confederation Cup qualification"
+        },
+        "42": {
+            "col": "0x23DF8C",
+            "des": "AFC Champions League"
+        },
+        "43": {
+            "col": "0xB33C00",
+            "des": "AFC Champions League qualification"
+        },
+        "44": {
+            "col": "0xB33C00",
+            "des": "AFC Cup"
+        },
+        "45": {
+            "col": "0x23DF8C",
+            "des": "AFC Cup qualification"
+        },
+        "46": {
+            "col": "0x23DF8C",
+            "des": "AFC President's Cup"
+        },
+        "50": {
+            "col": "0x23DF8C",
+            "des": "Copa Libertadores"
+        },
+        "51": {
+            "col": "0x0075FF",
+            "des": "Copa Libertadores qualification"
+        },
+        "52": {
+            "col": "0xB33C00",
+            "des": "Copa Sudamericana"
+        },
+        "53": {
+            "col": "0xB33C00",
+            "des": "Copa Sudamericana Qualification"
+        },
+        "54": {
+            "col": "0xB33C00",
+            "des": "Qualification to Copa Sudamericana Final Stage"
+        },
+        "58": {
+            "col": "0x23DF8C",
+            "des": "CONCACAF Champions League"
+        },
+        "60": {
+            "col": "0xB33C00",
+            "des": "CFU Club Championship"
+        },
+        "64": {
+            "col": "0x072D5B",
+            "des": "OFC Champions League"
+        },
+        "65": {
+            "col": "0x0075FF",
+            "des": "OFC Champions League qualification"
+        },
+        "72": {
+            "col": "0x125034",
+            "des": "Final"
+        },
+        "86": {
+            "col": "0x260755",
+            "des": "Top 6"
+        },
+        "100": {
+            "col": "0x072D5B",
+            "des": "Championship play-off (additional spot(s) for UEFA Champions League)"
+        },
+        "101": {
+            "col": "0x6002EE",
+            "des": "Championship play-off (additional spot(s) for UEFA Champions League qualification)"
+        },
+        "102": {
+            "col": "0xB33C00",
+            "des": "Championship play-off (additional spot(s) for UEFA Europa League)"
+        },
+        "103": {
+            "col": "0x4304A0",
+            "des": "Championship play-off (additional spot(s) for UEFA Europa League qualification)"
+        },
+        "107": {
+            "col": "0x072D5B",
+            "des": "Championship play-off (additional spot(s) for CAF Champions League qualification)"
+        },
+        "109": {
+            "col": "0xB33C00",
+            "des": "Championship play-off (additional spot(s) for CAF Confederation Cup qualification)"
+        },
+        "112": {
+            "col": "0x0350AB",
+            "des": "Championship play-off (additional spot(s) for AFC Champions League)"
+        },
+        "113": {
+            "col": "0x0075FF",
+            "des": "Championship play-off (additional spot(s) for AFC Champions League qualification)"
+        },
+        "114": {
+            "col": "0xB33C00",
+            "des": "Championship play-off (additional spot(s) for AFC Cup)"
+        },
+        "115": {
+            "col": "0x4304A0",
+            "des": "Championship play-off (additional spot(s) for AFC Cup qualification)"
+        },
+        "116": {
+            "col": "0x125034",
+            "des": "Championship play-off (additional spot(s) for AFC President's Cup)"
+        },
+        "120": {
+            "col": "0x4304A0",
+            "des": "Championship play-off (additional spot(s) for Copa Libertadores)"
+        },
+        "121": {
+            "col": "0x0075FF",
+            "des": "Championship play-off (additional spot(s) for Copa Libertadores qualification)"
+        },
+        "122": {
+            "col": "0xB33C00",
+            "des": "Championship play-off (additional spot(s) for Copa Sudamericana)"
+        },
+        "126": {
+            "col": "0x072D5B",
+            "des": "Championship play-off (additional spot(s) for CONCACAF Champions League)"
+        },
+        "128": {
+            "col": "0xB33C00",
+            "des": "Championship play-off (additional spot(s) for CFU Club Championship)"
+        },
+        "132": {
+            "col": "0x0350AB",
+            "des": "Championship play-off (additional spot(s) for OFC Champions League)"
+        },
+        "133": {
+            "col": "0x0075FF",
+            "des": "Championship play-off (additional spot(s) for OFC Champions League qualification)"
+        },
+        "140": {
+            "col": "0x125034",
+            "des": "Championship play-off gives UEFA Conference League (unused as of September 2020)"
+        },
+        "141": {
+            "col": "0x23DF8C",
+            "des": "Championship play-off gives UEFA Conference League qualification"
+        },
+        "150": {
+            "col": "0x0350AB",
+            "des": "Qualification to last 16"
+        },
+        "151": {
+            "col": "0xFF6B00",
+            "des": "Qualification to quarter finals"
+        },
+        "152": {
+            "col": "0x0075FF"
+        },
+        "153": {
+            "col": "0xB33C00"
+        },
+        "190": {
+            "col": "0x125034",
+            "des": "Europa Conference League"
+        },
+        "191": {
+            "col": "0x23DF8C",
+            "des": "Europa Conference League qualification"
+        },
+        "192": {
+            "col": "0xD9E300",
+            "des": "Europa Conference League qualification play off"
+        },
+        "1006": {
+            "col": "0xB33C00",
+            "des": "Division Championship Playoff"
+        },
+        "1007": {
+            "col": "0x260755",
+            "des": "Possible Division Championship Playoff"
+        },
+        "1008": {
+            "col": "0xFF6B00",
+            "des": "Championship Western Conference playoff"
+        },
+        "1009": {
+            "col": "0x1A965F",
+            "des": "Championship Eastern Conference playoff"
+        },
+        "7301": {
+            "col": "0x23DF8C",
+            "des": "Qualification - Qualifier"
+        },
+        "7302": {
+            "col": "0x0075FF",
+            "des": "Qualification - Eliminator"
+        },
+        "7303": {
+            "col": "0x23DF8C",
+            "des": "Qualification - Division 1"
+        },
+        "7304": {
+            "col": "0x0075FF",
+            "des": "Qualification - Division 2"
+        },
+        "7305": {
+            "col": "0x6002EE",
+            "des": "Qualification - Division 3"
+        },
+        "7306": {
+            "col": "0xFF6B00",
+            "des": "Qualification - BWT Final"
+        },
+        "7307": {
+            "col": "0xFF6B00",
+            "des": "Qualification - Final"
+        },
+        "7308": {
+            "col": "0x23DF8C",
+            "des": "Qualification - Semi-Final"
+        },
+        "7309": {
+            "col": "0x6002EE",
+            "des": "Qualification - Knockout"
+        },
+        "7310": {
+            "col": "0x0075FF",
+            "des": "Qualification - Quarter-Final"
+        },
+        "7311": {
+            "col": "0x6002EE",
+            "des": "Qualification - Super 12"
+        },
+        "1010": {
+            "col": "0x0075FF"
+        },
+        "1011": {
+            "col": "0xB33C00"
+        },
+        "1012": {
+            "col": "0x23DF8C"
+        }
+    },
+    "phaseDescription": {
+        "150": "Cup winner qualifies for European competition.",
+        "151": "Cup result determines 1 spot in UEFA Europa League qualification.",
+        "153": "Cup result determines 1 spot in CAF Confederation Cup qualification.",
+        "154": "Cup result determines 1 spot in AFC Champions League.",
+        "155": "Cup result determines 1 spot in AFC Champions League qualification.",
+        "156": "Cup result determines 1 spot in AFC Cup.",
+        "157": "Cup result determines 1 spot in AFC Cup qualification.",
+        "158": "Cup result determines 1 spot in CONCACAF Champions League.",
+        "160": "Cup result determines 1 spot in Copa Libertadores.",
+        "162": "Cup result determines 1 spot in Copa Sudamericana.",
+        "180": "League Cup result determines 1 spot in UEFA Europa League qualification.",
+        "200": "Domestic cup gives UEFA Europa Conference League.",
+        "201": "Domestic cup gives UEFA Europa Conference League qualification.",
+        "210": "League cup gives UEFA Europa Conference League.",
+        "211": "League cup gives UEFA Europa Conference League qualification."
+    },
+    "updatedTime": "Sun Oct 26 21:43:01 ICT 2025"
+}
