@@ -1,5 +1,5 @@
-import org.example.crawler.ConfigCrawler
+import crawler.TableConfigCrawler
 
 fun main() {
-    ConfigCrawler.crawlConfig()
+    TableConfigCrawler.crawlConfig()
 }
