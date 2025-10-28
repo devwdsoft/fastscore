@@ -1,11 +1,11 @@
 package org.example.model
 
+import crawler.TableConfigCrawler
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
-import org.example.crawler.ConfigCrawler.configPath
 import org.example.util.MyUtil
 import java.io.File
-import java.util.Calendar
+import java.util.*
 
 @Serializable
 data class LeagueTableConfig(
@@ -14,7 +14,8 @@ data class LeagueTableConfig(
 ) {
     fun toConfig(): Config {
         val colorsMap = leagueTable.phaseColors
-        val oldConfig = MyUtil.json.decodeFromString(Config.serializer(), File(configPath).readText())
+        val oldConfig =
+            MyUtil.json.decodeFromString(Config.serializer(), File(TableConfigCrawler.tableConfigPath).readText())
 
         val newPhase = oldConfig.phases.toMutableMap()
         leagueTable.phases.forEach { (key, phase) ->
