@@ -249,10 +249,12 @@
             "des": "Qualification to quarter finals"
         },
         "152": {
-            "col": "0x0075FF"
+            "col": "0x0075FF",
+            "des": null
         },
         "153": {
-            "col": "0xB33C00"
+            "col": "0xB33C00",
+            "des": null
         },
         "190": {
             "col": "0x125034",
@@ -327,13 +329,16 @@
             "des": "Qualification - Super 12"
         },
         "1010": {
-            "col": "0x0075FF"
+            "col": "0x0075FF",
+            "des": null
         },
         "1011": {
-            "col": "0xB33C00"
+            "col": "0xB33C00",
+            "des": null
         },
         "1012": {
-            "col": "0x23DF8C"
+            "col": "0x23DF8C",
+            "des": null
         }
     },
     "phaseDescription": {
@@ -353,5 +358,13 @@
         "210": "League cup gives UEFA Europa Conference League.",
         "211": "League cup gives UEFA Europa Conference League qualification."
     },
-    "updatedTime": "Tue Nov 11 08:38:58 UTC 2025"
+    "tournamentStats": {
+        "1": "Goals",
+        "3": "Assists",
+        "4": "Red Cards",
+        "6": "Yellow Cards",
+        "8": "Shots On Target"
+    },
+    "dataChangedTime": "Tue Nov 11 08:38:58 UTC 2025",
+    "updatedTime": "Tue Nov 11 09:06:46 UTC 2025"
 }
