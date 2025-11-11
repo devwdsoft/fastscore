@@ -29,10 +29,19 @@ data class LeagueTableConfig(
             newPhaseDescription[key] = value
         }
 
+        val now = Calendar.getInstance().time.toString()
+        val hasChanged = newPhase != oldConfig.phases || newPhaseDescription != oldConfig.phaseDescription
+        val dataChangedTime = if (hasChanged) {
+            now
+        } else {
+            oldConfig.dataChangedTime.ifBlank { oldConfig.updatedTime }
+        }
+
         return Config(
             phases = newPhase,
             phaseDescription = newPhaseDescription,
-            updatedTime = Calendar.getInstance().time.toString()
+            dataChangedTime = dataChangedTime,
+            updatedTime = now
         )
     }
 }

@@ -13,5 +13,6 @@ data class Config(
         "6" to "Yellow Cards",
         "8" to "Shots On Target"
     ),
+    val dataChangedTime: String = "",
     val updatedTime: String
 )
