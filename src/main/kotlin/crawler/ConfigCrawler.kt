@@ -1,9 +1,9 @@
 package crawler
 
 import extension.getEnv
-import org.example.model.Config
-import org.example.model.LeagueTableConfig
-import org.example.util.MyUtil
+import model.Config
+import model.LeagueTableConfig
+import util.MyUtil
 import java.io.File
 
 object TableConfigCrawler {

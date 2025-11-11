@@ -1,11 +1,12 @@
-package org.example.model
+package model
 
 import crawler.TableConfigCrawler
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
-import org.example.util.MyUtil
+import util.MyUtil
 import java.io.File
 import java.util.*
+import kotlin.collections.get
 
 @Serializable
 data class LeagueTableConfig(
