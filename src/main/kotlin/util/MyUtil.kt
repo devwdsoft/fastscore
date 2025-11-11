@@ -10,6 +10,7 @@ object MyUtil {
     internal val json = Json {
         ignoreUnknownKeys = true
         prettyPrint = true
+        encodeDefaults = true
     }
     private val client = OkHttpClient.Builder().build()
 
