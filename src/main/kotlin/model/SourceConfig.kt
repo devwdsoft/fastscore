@@ -18,10 +18,32 @@ data class LeagueTableConfig(
         val oldConfig =
             MyUtil.json.decodeFromString(Config.serializer(), File(TableConfigCrawler.tableConfigPath).readText())
 
+        // Load localizable config
+        val localizableConfigPath = "fastscore/res/localizable_config.json"
+        val localizableConfig: Map<String, String> = try {
+            val localizableFile = File(localizableConfigPath)
+            if (localizableFile.exists()) {
+                MyUtil.json.decodeFromString<Map<String, String>>(localizableFile.readText())
+            } else {
+                emptyMap()
+            }
+        } catch (e: Exception) {
+            emptyMap()
+        }
+
         val newPhase = oldConfig.phases.toMutableMap()
         leagueTable.phases.forEach { (key, phase) ->
-            newPhase[key] = phase.copy(
-                col = "0x${colorsMap[phase.col]}"
+            // Determine des value: use existing des, or lookup from localizable config if des_localization_key exists
+            val des = if (phase.des.isNullOrBlank() && !phase.desLocalizationKey.isNullOrBlank()) {
+                localizableConfig[phase.desLocalizationKey]?.takeIf { it.isNotBlank() }
+            } else {
+                phase.des?.takeIf { it.isNotBlank() }
+            }
+
+            // Create Phase without desLocalizationKey to avoid writing it to table_config.json
+            newPhase[key] = Phase(
+                col = "0x${colorsMap[phase.col]}",
+                des = des
             )
         }
         val newPhaseDescription = oldConfig.phaseDescription.toMutableMap()
@@ -60,5 +82,7 @@ data class LeagueTable(
 @Serializable
 data class Phase(
     val col: String? = null,
-    val des: String? = null
+    val des: String? = null,
+    @SerialName("des_localization_key")
+    val desLocalizationKey: String? = null
 )
