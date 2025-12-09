@@ -334,7 +334,7 @@
         },
         "1011": {
             "col": "0xB33C00",
-            "des": null
+            "des": "Europa League"
         },
         "1012": {
             "col": "0x23DF8C",
@@ -358,6 +358,6 @@
         "210": "League cup gives UEFA Europa Conference League.",
         "211": "League cup gives UEFA Europa Conference League qualification."
     },
-    "dataChangedTime": "Tue Dec 09 16:22:34 UTC 2025",
-    "updatedTime": "Tue Dec 09 16:22:34 UTC 2025"
+    "dataChangedTime": "Tue Dec 09 16:29:03 UTC 2025",
+    "updatedTime": "Tue Dec 09 16:29:03 UTC 2025"
 }
