@@ -358,13 +358,6 @@
         "210": "League cup gives UEFA Europa Conference League.",
         "211": "League cup gives UEFA Europa Conference League qualification."
     },
-    "tournamentStats": {
-        "1": "Goals",
-        "3": "Assists",
-        "4": "Red Cards",
-        "6": "Yellow Cards",
-        "8": "Shots On Target"
-    },
     "dataChangedTime": "Tue Nov 11 08:38:58 UTC 2025",
-    "updatedTime": "Tue Dec 09 08:30:04 UTC 2025"
+    "updatedTime": "Tue Dec 09 15:31:41 GMT+07:00 2025"
 }
