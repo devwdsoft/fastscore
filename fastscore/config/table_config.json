@@ -2,343 +2,428 @@
     "phases": {
         "2": {
             "col": "0x260755",
-            "des": "Play-off"
+            "des": "Play-off",
+            "des_localization_key": null
         },
         "3": {
             "col": "0x6002EE",
-            "des": "Qualification play-off"
+            "des": "Qualification play-off",
+            "des_localization_key": null
         },
         "5": {
             "col": "0x0075FF",
-            "des": "Championship play-off"
+            "des": "Championship play-off",
+            "des_localization_key": null
         },
         "10": {
             "col": "0x23DF8C",
-            "des": "Promotion"
+            "des": "Promotion",
+            "des_localization_key": null
         },
         "11": {
             "col": "0x6002EE",
-            "des": "Promotion play-off"
+            "des": "Promotion play-off",
+            "des_localization_key": null
         },
         "14": {
             "col": "0x961A3D",
-            "des": "Eliminated"
+            "des": "Eliminated",
+            "des_localization_key": null
         },
         "15": {
             "col": "0x961A3D",
-            "des": "Relegation"
+            "des": "Relegation",
+            "des_localization_key": null
         },
         "16": {
             "col": "0xAAAAAA",
-            "des": "Relegation play-off"
+            "des": "Relegation play-off",
+            "des_localization_key": null
         },
         "20": {
             "col": "0x0075FF",
-            "des": "Champions League"
+            "des": "Champions League",
+            "des_localization_key": null
         },
         "21": {
             "col": "0x6002EE",
-            "des": "Champions League qualification"
+            "des": "Champions League qualification",
+            "des_localization_key": null
         },
         "25": {
             "col": "0xB33C00",
-            "des": "Europa League"
+            "des": "Europa League",
+            "des_localization_key": null
         },
         "26": {
             "col": "0x4304A0",
-            "des": "Europa League qualification"
+            "des": "Europa League qualification",
+            "des_localization_key": null
         },
         "27": {
             "col": "0x260755",
-            "des": "Europa League qualification play-off"
+            "des": "Europa League qualification play-off",
+            "des_localization_key": null
         },
         "28": {
             "col": "0x4304A0",
-            "des": "Qualification to Europa League Final Stage"
+            "des": "Qualification to Europa League Final Stage",
+            "des_localization_key": null
         },
         "29": {
             "col": "0x4304A0",
-            "des": "Qualification to Europa Conference League Final Stage"
+            "des": "Qualification to Europa Conference League Final Stage",
+            "des_localization_key": null
         },
         "30": {
             "col": "0x23DF8C",
-            "des": "Next stage"
+            "des": "Next stage",
+            "des_localization_key": null
         },
         "31": {
             "col": "0x0070F0",
-            "des": "Possible qualification for the next stage"
+            "des": "Possible qualification for the next stage",
+            "des_localization_key": null
         },
         "32": {
             "col": "0x125034",
-            "des": "Olympic Games"
+            "des": "Olympic Games",
+            "des_localization_key": null
         },
         "33": {
             "col": "0x072D5B",
-            "des": "World Cup"
+            "des": "World Cup",
+            "des_localization_key": null
         },
         "34": {
             "col": "0x125034",
-            "des": "EURO"
+            "des": "EURO",
+            "des_localization_key": null
         },
         "35": {
             "col": "0x125034",
-            "des": "Africa Cup of Nations"
+            "des": "Africa Cup of Nations",
+            "des_localization_key": null
         },
         "37": {
             "col": "0x0075FF",
-            "des": "CAF Champions League qualification"
+            "des": "CAF Champions League qualification",
+            "des_localization_key": null
         },
         "38": {
             "col": "0x23DF8C",
-            "des": "CAF Confederation Cup"
+            "des": "CAF Confederation Cup",
+            "des_localization_key": null
         },
         "39": {
             "col": "0x23DF8C",
-            "des": "CAF Confederation Cup qualification"
+            "des": "CAF Confederation Cup qualification",
+            "des_localization_key": null
         },
         "42": {
             "col": "0x23DF8C",
-            "des": "AFC Champions League"
+            "des": "AFC Champions League",
+            "des_localization_key": null
         },
         "43": {
             "col": "0xB33C00",
-            "des": "AFC Champions League qualification"
+            "des": "AFC Champions League qualification",
+            "des_localization_key": null
         },
         "44": {
             "col": "0xB33C00",
-            "des": "AFC Cup"
+            "des": "AFC Cup",
+            "des_localization_key": null
         },
         "45": {
             "col": "0x23DF8C",
-            "des": "AFC Cup qualification"
+            "des": "AFC Cup qualification",
+            "des_localization_key": null
         },
         "46": {
             "col": "0x23DF8C",
-            "des": "AFC President's Cup"
+            "des": "AFC President's Cup",
+            "des_localization_key": null
         },
         "50": {
             "col": "0x23DF8C",
-            "des": "Copa Libertadores"
+            "des": "Copa Libertadores",
+            "des_localization_key": null
         },
         "51": {
             "col": "0x0075FF",
-            "des": "Copa Libertadores qualification"
+            "des": "Copa Libertadores qualification",
+            "des_localization_key": null
         },
         "52": {
             "col": "0xB33C00",
-            "des": "Copa Sudamericana"
+            "des": "Copa Sudamericana",
+            "des_localization_key": null
         },
         "53": {
             "col": "0xB33C00",
-            "des": "Copa Sudamericana Qualification"
+            "des": "Copa Sudamericana Qualification",
+            "des_localization_key": null
         },
         "54": {
             "col": "0xB33C00",
-            "des": "Qualification to Copa Sudamericana Final Stage"
+            "des": "Qualification to Copa Sudamericana Final Stage",
+            "des_localization_key": null
         },
         "58": {
             "col": "0x23DF8C",
-            "des": "CONCACAF Champions League"
+            "des": "CONCACAF Champions League",
+            "des_localization_key": null
         },
         "60": {
             "col": "0xB33C00",
-            "des": "CFU Club Championship"
+            "des": "CFU Club Championship",
+            "des_localization_key": null
         },
         "64": {
             "col": "0x072D5B",
-            "des": "OFC Champions League"
+            "des": "OFC Champions League",
+            "des_localization_key": null
         },
         "65": {
             "col": "0x0075FF",
-            "des": "OFC Champions League qualification"
+            "des": "OFC Champions League qualification",
+            "des_localization_key": null
         },
         "72": {
             "col": "0x125034",
-            "des": "Final"
+            "des": "Final",
+            "des_localization_key": null
         },
         "86": {
             "col": "0x260755",
-            "des": "Top 6"
+            "des": "Top 6",
+            "des_localization_key": null
         },
         "100": {
             "col": "0x072D5B",
-            "des": "Championship play-off (additional spot(s) for UEFA Champions League)"
+            "des": "Championship play-off (additional spot(s) for UEFA Champions League)",
+            "des_localization_key": null
         },
         "101": {
             "col": "0x6002EE",
-            "des": "Championship play-off (additional spot(s) for UEFA Champions League qualification)"
+            "des": "Championship play-off (additional spot(s) for UEFA Champions League qualification)",
+            "des_localization_key": null
         },
         "102": {
             "col": "0xB33C00",
-            "des": "Championship play-off (additional spot(s) for UEFA Europa League)"
+            "des": "Championship play-off (additional spot(s) for UEFA Europa League)",
+            "des_localization_key": null
         },
         "103": {
             "col": "0x4304A0",
-            "des": "Championship play-off (additional spot(s) for UEFA Europa League qualification)"
+            "des": "Championship play-off (additional spot(s) for UEFA Europa League qualification)",
+            "des_localization_key": null
         },
         "107": {
             "col": "0x072D5B",
-            "des": "Championship play-off (additional spot(s) for CAF Champions League qualification)"
+            "des": "Championship play-off (additional spot(s) for CAF Champions League qualification)",
+            "des_localization_key": null
         },
         "109": {
             "col": "0xB33C00",
-            "des": "Championship play-off (additional spot(s) for CAF Confederation Cup qualification)"
+            "des": "Championship play-off (additional spot(s) for CAF Confederation Cup qualification)",
+            "des_localization_key": null
         },
         "112": {
             "col": "0x0350AB",
-            "des": "Championship play-off (additional spot(s) for AFC Champions League)"
+            "des": "Championship play-off (additional spot(s) for AFC Champions League)",
+            "des_localization_key": null
         },
         "113": {
             "col": "0x0075FF",
-            "des": "Championship play-off (additional spot(s) for AFC Champions League qualification)"
+            "des": "Championship play-off (additional spot(s) for AFC Champions League qualification)",
+            "des_localization_key": null
         },
         "114": {
             "col": "0xB33C00",
-            "des": "Championship play-off (additional spot(s) for AFC Cup)"
+            "des": "Championship play-off (additional spot(s) for AFC Cup)",
+            "des_localization_key": null
         },
         "115": {
             "col": "0x4304A0",
-            "des": "Championship play-off (additional spot(s) for AFC Cup qualification)"
+            "des": "Championship play-off (additional spot(s) for AFC Cup qualification)",
+            "des_localization_key": null
         },
         "116": {
             "col": "0x125034",
-            "des": "Championship play-off (additional spot(s) for AFC President's Cup)"
+            "des": "Championship play-off (additional spot(s) for AFC President's Cup)",
+            "des_localization_key": null
         },
         "120": {
             "col": "0x4304A0",
-            "des": "Championship play-off (additional spot(s) for Copa Libertadores)"
+            "des": "Championship play-off (additional spot(s) for Copa Libertadores)",
+            "des_localization_key": null
         },
         "121": {
             "col": "0x0075FF",
-            "des": "Championship play-off (additional spot(s) for Copa Libertadores qualification)"
+            "des": "Championship play-off (additional spot(s) for Copa Libertadores qualification)",
+            "des_localization_key": null
         },
         "122": {
             "col": "0xB33C00",
-            "des": "Championship play-off (additional spot(s) for Copa Sudamericana)"
+            "des": "Championship play-off (additional spot(s) for Copa Sudamericana)",
+            "des_localization_key": null
         },
         "126": {
             "col": "0x072D5B",
-            "des": "Championship play-off (additional spot(s) for CONCACAF Champions League)"
+            "des": "Championship play-off (additional spot(s) for CONCACAF Champions League)",
+            "des_localization_key": null
         },
         "128": {
             "col": "0xB33C00",
-            "des": "Championship play-off (additional spot(s) for CFU Club Championship)"
+            "des": "Championship play-off (additional spot(s) for CFU Club Championship)",
+            "des_localization_key": null
         },
         "132": {
             "col": "0x0350AB",
-            "des": "Championship play-off (additional spot(s) for OFC Champions League)"
+            "des": "Championship play-off (additional spot(s) for OFC Champions League)",
+            "des_localization_key": null
         },
         "133": {
             "col": "0x0075FF",
-            "des": "Championship play-off (additional spot(s) for OFC Champions League qualification)"
+            "des": "Championship play-off (additional spot(s) for OFC Champions League qualification)",
+            "des_localization_key": null
         },
         "140": {
             "col": "0x125034",
-            "des": "Championship play-off gives UEFA Conference League (unused as of September 2020)"
+            "des": "Championship play-off gives UEFA Conference League (unused as of September 2020)",
+            "des_localization_key": null
         },
         "141": {
             "col": "0x23DF8C",
-            "des": "Championship play-off gives UEFA Conference League qualification"
+            "des": "Championship play-off gives UEFA Conference League qualification",
+            "des_localization_key": null
         },
         "150": {
             "col": "0x0350AB",
-            "des": "Qualification to last 16"
+            "des": "Qualification to last 16",
+            "des_localization_key": null
         },
         "151": {
             "col": "0xFF6B00",
-            "des": "Qualification to quarter finals"
+            "des": "Qualification to quarter finals",
+            "des_localization_key": null
         },
         "152": {
             "col": "0x0075FF",
-            "des": null
+            "des": "Qualification to 1/8 finals",
+            "des_localization_key": null
         },
         "153": {
             "col": "0xB33C00",
-            "des": null
+            "des": "Qualification to 1/16 finals",
+            "des_localization_key": null
         },
         "190": {
             "col": "0x125034",
-            "des": "Europa Conference League"
+            "des": "Europa Conference League",
+            "des_localization_key": null
         },
         "191": {
             "col": "0x23DF8C",
-            "des": "Europa Conference League qualification"
+            "des": "Europa Conference League qualification",
+            "des_localization_key": null
         },
         "192": {
             "col": "0xD9E300",
-            "des": "Europa Conference League qualification play off"
+            "des": "Europa Conference League qualification play off",
+            "des_localization_key": null
         },
         "1006": {
             "col": "0xB33C00",
-            "des": "Division Championship Playoff"
+            "des": "Division Championship Playoff",
+            "des_localization_key": null
         },
         "1007": {
             "col": "0x260755",
-            "des": "Possible Division Championship Playoff"
+            "des": "Possible Division Championship Playoff",
+            "des_localization_key": null
         },
         "1008": {
             "col": "0xFF6B00",
-            "des": "Championship Western Conference playoff"
+            "des": "Championship Western Conference playoff",
+            "des_localization_key": null
         },
         "1009": {
             "col": "0x1A965F",
-            "des": "Championship Eastern Conference playoff"
+            "des": "Championship Eastern Conference playoff",
+            "des_localization_key": null
         },
         "7301": {
             "col": "0x23DF8C",
-            "des": "Qualification - Qualifier"
+            "des": "Qualification - Qualifier",
+            "des_localization_key": null
         },
         "7302": {
             "col": "0x0075FF",
-            "des": "Qualification - Eliminator"
+            "des": "Qualification - Eliminator",
+            "des_localization_key": null
         },
         "7303": {
             "col": "0x23DF8C",
-            "des": "Qualification - Division 1"
+            "des": "Qualification - Division 1",
+            "des_localization_key": null
         },
         "7304": {
             "col": "0x0075FF",
-            "des": "Qualification - Division 2"
+            "des": "Qualification - Division 2",
+            "des_localization_key": null
         },
         "7305": {
             "col": "0x6002EE",
-            "des": "Qualification - Division 3"
+            "des": "Qualification - Division 3",
+            "des_localization_key": null
         },
         "7306": {
             "col": "0xFF6B00",
-            "des": "Qualification - BWT Final"
+            "des": "Qualification - BWT Final",
+            "des_localization_key": null
         },
         "7307": {
             "col": "0xFF6B00",
-            "des": "Qualification - Final"
+            "des": "Qualification - Final",
+            "des_localization_key": null
         },
         "7308": {
             "col": "0x23DF8C",
-            "des": "Qualification - Semi-Final"
+            "des": "Qualification - Semi-Final",
+            "des_localization_key": null
         },
         "7309": {
             "col": "0x6002EE",
-            "des": "Qualification - Knockout"
+            "des": "Qualification - Knockout",
+            "des_localization_key": null
         },
         "7310": {
             "col": "0x0075FF",
-            "des": "Qualification - Quarter-Final"
+            "des": "Qualification - Quarter-Final",
+            "des_localization_key": null
         },
         "7311": {
             "col": "0x6002EE",
-            "des": "Qualification - Super 12"
+            "des": "Qualification - Super 12",
+            "des_localization_key": null
         },
         "1010": {
             "col": "0x0075FF",
-            "des": null
+            "des": "Champions League",
+            "des_localization_key": null
         },
         "1011": {
             "col": "0xB33C00",
-            "des": null
+            "des": "Europa League",
+            "des_localization_key": null
         },
         "1012": {
             "col": "0x23DF8C",
-            "des": null
+            "des": "Europa Conference League",
+            "des_localization_key": null
         }
     },
     "phaseDescription": {
@@ -358,6 +443,6 @@
         "210": "League cup gives UEFA Europa Conference League.",
         "211": "League cup gives UEFA Europa Conference League qualification."
     },
-    "dataChangedTime": "Tue Nov 11 08:38:58 UTC 2025",
-    "updatedTime": "Tue Dec 09 15:31:41 GMT+07:00 2025"
+    "dataChangedTime": "Tue Dec 09 16:22:34 UTC 2025",
+    "updatedTime": "Tue Dec 09 16:22:34 UTC 2025"
 }
