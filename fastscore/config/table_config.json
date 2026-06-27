@@ -66,7 +66,7 @@
         },
         "31": {
             "col": "0x0070F0",
-            "des": "Possible qualification for the next stage"
+            "des": "Qualification for the next stage"
         },
         "32": {
             "col": "0x125034",
@@ -358,6 +358,6 @@
         "210": "League cup gives UEFA Europa Conference League.",
         "211": "League cup gives UEFA Europa Conference League qualification."
     },
-    "dataChangedTime": "Tue Dec 09 16:29:03 UTC 2025",
-    "updatedTime": "Thu Jun 25 04:19:12 UTC 2026"
+    "dataChangedTime": "Sat Jun 27 04:11:51 UTC 2026",
+    "updatedTime": "Sat Jun 27 04:11:51 UTC 2026"
 }
